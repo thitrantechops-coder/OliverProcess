@@ -1,0 +1,3 @@
+- Công ty: TNHH Oliver Vietnam — xây bộ tiêu chuẩn & quy trình quản lý vận hành nhà chung cư, bám Luật Nhà ở 27/2023, TT 05/2024/TT-BXD, NĐ 105/2025/NĐ-CP, nền tảng AirCity Newton/Airy. [2026-08-27]
+- Nguồn nội bộ: Phương án VH Petrovietnam Landmark (SAGOMA), master quy trình Oliver, logo Ảnh logo.png. [2026-08-27]
+- Deliverable đã xuất bản dạng web: artifacts/oliver-qhvh/index.html (self-contained, Be Vietnam Pro, search + sidebar). Logo nhúng base64. Preview: artifacts/oliver-qhvh/preview/. Zip: artifacts/oliver-qhvh-tieu-chuan-quy-trinh.zip. Mã OLV-QHXH-TCQT-01 v1.0 [2026-08-27].

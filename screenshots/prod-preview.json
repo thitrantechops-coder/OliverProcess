@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Oliver Process",
+      "hasCanvas": false,
+      "bodyTextLen": 32096,
+      "bodyTextHash": "b9030c9a0885f3ee687c81e639803f72bf1d37ded64c841dd1a61c184905068e",
+      "bodyTextPrefix": "Oliver Vietnam QUY TRÌNH VẬN HÀNH MỞ ĐẦU Trang bìa & hiệu lực Că",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/prod-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Oliver Process",
+      "hasCanvas": false,
+      "bodyTextLen": 31640,
+      "bodyTextHash": "588c3ddfb3f594efc62b3601b8a259e2cf35534b2ebe0236a2824a7947d644b3",
+      "bodyTextPrefix": "Oliver Vietnam QUY TRÌNH VẬN HÀNH Bộ tiêu chuẩn quản lý vận hành",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/prod-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/prod-preview.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
